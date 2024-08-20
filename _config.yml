@@ -25,7 +25,7 @@ title: MAC to Millennium
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The University of Maryland A to Z"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
@@ -40,11 +40,10 @@ metadata: AtoZ
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+# organization-name: "University of Maryland Libraries"
+# organization-link: https://lib.umd.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+# organization-logo-nav: https://exhibitions.lib.umd.edu/binaries/content/gallery/exhibits/bladensburg/liblogo.png
 ##########
 # ROBOTS EXCLUDE
 #
