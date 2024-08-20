@@ -14,14 +14,13 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+MAC to Millennium brings together traditions, answers to frequently asked questions, and many other fun and unusual tales about our campus from its founding in 1856 as the Maryland Agricultural College (MAC) to the twenty-first century.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Select a letter to [begin browsing](https://exhibitions.lib.umd.edu/macmil/leta) or use the search bar at the top of the page to search the entire MAC to Millennium site.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+More than ninety years ago, as part of Alumni Day, campus officials held an ivy-planting ceremony on the shady hill near Morrill Hall during which class traditions were formally transferred from the graduating seniors to the juniors. Many of the traditions that existed in 1920s — freshman-sophomore tug-of-war, May Day, all-class proms, rat caps — have disappeared, but newer ones, such as rubbing Testudo's nose for good luck and firing off a cannon every time the football team scores, have taken their place.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+We hope you enjoy this compilation and that you rub Testudo's nose every chance you get!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
