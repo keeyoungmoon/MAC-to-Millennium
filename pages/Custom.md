@@ -3,4 +3,5 @@ title: Custom Collection Page
 layout: about
 permalink: /Custom.html
 ---
- {% include feature/image.html objectid="demo_001;demo_004" width="75" caption="demo1;nother" %}
+
+<iframe title="1980 Baltimore International Film Festival - Program 1, part 2 of 2 - bcast-077462-0001" src="//av.lib.umd.edu:443/master_files/8910jt84r/embed" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
